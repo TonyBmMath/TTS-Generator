@@ -12,6 +12,7 @@ Dim voice, fileStream, fso, timestamp, filePath, userText
 '3
 '4
 '5
+'7
 '6
 '31
 userText = InputBox("Enter the text to convert to speech:", "Text to Speech")
