@@ -1,5 +1,5 @@
 Dim voice, fileStream, fso, timestamp, filePath, userText
-
+' Text to speech generator
 ' Prompt user for input text
 userText = InputBox("Enter the text to convert to speech:", "Text to Speech")
 
