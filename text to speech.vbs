@@ -3,6 +3,7 @@ Dim voice, fileStream, fso, timestamp, filePath, userText
 ' By TonyBmMath on github
 ' https://www.youtube.com/@LearnMathWithTonyBM
 ' https://www.facebook.com/LearnMathWithTonyBM
+' https://classroom.google.com/c/NzgyNjIzNzA1MTYy?cjc=pou4ig4b
 ' Prompt user for input text
 userText = InputBox("Enter the text to convert to speech:", "Text to Speech")
 
