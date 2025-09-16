@@ -11,6 +11,7 @@ Dim voice, fileStream, fso, timestamp, filePath, userText
 '2
 '3
 '4
+'5
 userText = InputBox("Enter the text to convert to speech:", "Text to Speech")
 
 ' Exit if user cancels or leaves input empty
