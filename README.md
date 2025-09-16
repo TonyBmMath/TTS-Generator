@@ -43,3 +43,5 @@ tts_2025-08-26_12-27-00.wav
 - If no text is entered, the script will exit gracefully.
 - The script uses `SAPI.SpVoice` and `SAPI.SpFileStream` COM objects, which are native to Windows.
 - This script does **not** require internet access or external libraries.
+
+*It does not have a female voice yet.*
