@@ -7,6 +7,7 @@ Dim voice, fileStream, fso, timestamp, filePath, userText
 ' github.com/tonybmmath
 ' Website: tonybmmath.github.io
 ' Prompt user for input text
+'1
 userText = InputBox("Enter the text to convert to speech:", "Text to Speech")
 
 ' Exit if user cancels or leaves input empty
