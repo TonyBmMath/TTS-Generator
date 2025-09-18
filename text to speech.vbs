@@ -1,4 +1,5 @@
 Dim voice, fileStream, fso, timestamp, filePath, userText
+'78
 ' Text to speech generator
 ' By TonyBmMath on github
 ' https://www.youtube.com/@LearnMathWithTonyBM
