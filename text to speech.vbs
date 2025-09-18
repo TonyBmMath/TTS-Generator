@@ -1,4 +1,5 @@
 Dim voice, fileStream, fso, timestamp, filePath, userText
+'100
 '99
 '98
 '97
