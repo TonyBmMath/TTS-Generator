@@ -316,7 +316,6 @@ Dim voice, fileStream, fso, timestamp, filePath, userText
 '1
 '1
 '1
-'1
 
 ' Prompt user for input text
 userText = InputBox("Enter the text to convert to speech:", "Text to Speech")
