@@ -293,7 +293,6 @@ Dim voice, fileStream, fso, timestamp, filePath, userText
 '1
 '1
 '1
-'1
 '1'1
 '1
 '1
